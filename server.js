@@ -44,3 +44,5 @@ connectDB().then(() => {
     console.log(`Server running on port ${config.port}`);
   });
 });
+
+//Test
